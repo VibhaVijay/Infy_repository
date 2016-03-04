@@ -1,3 +1,1 @@
-# Infy_repository
-sample repository
-## modifying
+content updated for demo purpose
